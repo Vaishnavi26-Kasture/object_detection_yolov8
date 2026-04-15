@@ -1,7 +1,3 @@
-# 🔍 YOLOv8 Object Detection Web App
-
-This is a Streamlit-based web application that performs real-time object detection using the YOLOv8 model. Users can upload images and detect multiple objects with adjustable confidence threshold.
-
 
 # 🔍 YOLOv8 Object Detection Web App
 
@@ -48,11 +44,13 @@ object_detection_yolov8/
 - Displays bounding boxes with labels on detected objects
 
 
-## output
-
-### Pictures
+## Output Pictures
 
 ![object_detect](https://github.com/Vaishnavi26-Kasture/object_detection_yolov8/blob/main/object_detect.png)
+
+
+
+
 
 
 ![object_detection](https://github.com/Vaishnavi26-Kasture/object_detection_yolov8/blob/main/object_detection.png)
@@ -73,56 +71,3 @@ object_detection_yolov8/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-object_detect.png
