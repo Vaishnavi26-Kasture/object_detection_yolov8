@@ -48,8 +48,14 @@ object_detection_yolov8/
 - Displays bounding boxes with labels on detected objects
 
 
+## output
+
+### Pictures
+
+![object_detect](https://github.com/Vaishnavi26-Kasture/object_detection_yolov8/blob/main/object_detect.png)
 
 
+![object_detection](https://github.com/Vaishnavi26-Kasture/object_detection_yolov8/blob/main/object_detection.png)
 
 
 
